@@ -1,7 +1,0 @@
-.box{
-  transition:box-shadow .2s linear ;
-}
-.box:hover{
-  opacity:.6;
-  box-shadow:5px 5px 10px rgba(0,0,0,.4);
-}
